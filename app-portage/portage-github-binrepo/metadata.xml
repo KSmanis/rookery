@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>konstantinos.smanis@gmail.com</email>
+    <name>Konstantinos Smanis</name>
+  </maintainer>
+  <upstream>
+    <remote-id type="github">KSmanis/portage-github-binrepo</remote-id>
+  </upstream>
+</pkgmetadata>
